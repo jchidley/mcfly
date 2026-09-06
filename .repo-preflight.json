@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/mcfly",
+  "decision": "no-change-required",
+  "reviewedCommit": "8b1a451c36296d861572d7624f0c4979ccf67ce4",
+  "operation": "inspect",
+  "files": {
+    "README.md": "589772cf98dbeae25bca6580e8f877f518c7c828a2c2edb81c5de508a136f5d7"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Current reviewed guidance scope requires no repository-local change.",
+  "evidenceSummary": [
+    "Retain no-local-surface: 62-entry shell-history/Rust tree and complete README. Its neural network ranks shell history, custom prompt is a display character, and shell initializers are product integration rather than an agent hook. Setup, history dumping/deletion and release commands are operator effects, not exercised or certified.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Prior semantic findings retained as historical evidence, not independently re-certified by this verification pass."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.223Z",
+  "publicationApproved": false
+}
